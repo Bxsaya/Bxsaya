@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://gifyu.com/image/SQrM3">
+</p>
+
+
 ### Hi there 👋
 
 The name's Bosire, Wycliffe Bosire. I am a seasoned Data Scientist, with experience in Data Analytics, Machine Learning, Natural Language Processing, and Computer Vision (albeit still relatively new to me). 
