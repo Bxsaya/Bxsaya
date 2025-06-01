@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-The name's Bosire, Wycliffe Bosire. I am a seasoned Data Scientist, with experience in Data Analytics, Machine Learning, Natural Language Processing, and Computer Vision. 
+The name's Bosire, Wycliffe Bosire. I am a seasoned Data Scientist, with experience in Data Analytics, Machine Learning, Natural Language Processing, Computer Vision, LLMs, and Artificial Intelligence. 
 
 Starting out as a Data Analyst, I have become well acquainted with emerging trends in the industry and have grown into Data Science and Artificial Intelligence, leveraging new technologies 
 and building projects on the same.
