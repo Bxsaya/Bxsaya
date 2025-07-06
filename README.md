@@ -1,7 +1,8 @@
 ### Hey there 👋🏾
 
-I’m **Wycliffe Bosire** — a data scientist, AI builder, and lifelong learner based in Nairobi, Kenya 🇰🇪.  
-With 5+ years of experience in the world of **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**, I've grown from crafting dashboards to leading high-impact AI projects across fintech, telecom, and startups.
+The name is **Wycliffe Bosire** — a data scientist, AI builder, and lifelong learner and trainer based in Nairobi, Kenya 🇰🇪.  
+
+With 5+ years of experience in the world of **Data Analytics**, **Machine Learning**, and **Artificial Intelligence**, I have grown from crafting dashboards to leading high-impact AI projects across fintech, telecom, and startups.
 
 ---
 
